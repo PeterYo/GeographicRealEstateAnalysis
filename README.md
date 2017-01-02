@@ -1,5 +1,8 @@
 # GeographicRealEstateAnalysis
 
+1/2/2017 Update - I have found a program called RapidMiner and I'm looking at it and I think I'm going to try and utilize it for this project. It seems like a really strong tool that will be good for this task
+
+
 #this is gonna be a long and somewhat drawn out project that I'm gonna update in a piecemeal fashion when I complete the sub functions necessary
 
 #overall I want this code to go given 2 locations, compare a whole bunch of data points between them, both current and historic
